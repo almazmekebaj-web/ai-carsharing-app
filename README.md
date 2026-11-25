@@ -25,5 +25,5 @@
 
 ## Құжаттама
 
-- [Activity: көлікті броньдау](docs/analysis/activity-submit-application.png)
-- [Sequence: көлікті броньдау](docs/analysis/sequence-submit-application.png)
+- [Activity: көлікті броньдау](docs/analysis/activity-book-car.png)
+- [Sequence: көлікті броньдау](docs/analysis/sequence-book-car.png)
